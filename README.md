@@ -9,7 +9,7 @@
  </a>
 </div>
 <div  align="center"><br>
- <h3 align="center">Linguagens e ferramentas que etou  estudando :books: :hammer_and_wrench:</h3>
+ <h3 align="center">Linguagens e ferramentas que estou  estudando :books: :hammer_and_wrench:</h3>
   <img  style="display: inline_block" align="center" alt="Daniel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center" alt="Daniel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
