@@ -17,14 +17,13 @@
   <img align="center" alt="Daniel-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
  </div>
-  <hr>
- 
-<div  style="display: inline"   align="center" display> 
-  <a  style="display: inline"  href="https://www.instagram.com/ledger.d1999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a  style="display: inline" href="https://discord.gg/UK9Qkts7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <hr>
+<div  align="center"> 
+  <a href="https://www.instagram.com/ledger.d1999/" target="_blank"><img style="display: inline" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<ahref="https://discord.gg/UK9Qkts7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-  <a  style="display: inline" href="https://www.linkedin.com/in/daniel-novaes-a0a1651bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a  style="display: inline" href="https://api.whatsapp.com/send/?phone=5511934857372&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/daniel-novaes-a0a1651bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a   href="https://api.whatsapp.com/send/?phone=5511934857372&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Ledger-D/Ledger-D/blob/output/github-contribution-grid-snake.svg)
  
