@@ -13,7 +13,7 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-        with:
+        with: 12px
           github_user_name: Ledger-D
           svg_out_path: dist/github-contribution-grid-snake.svg
 
