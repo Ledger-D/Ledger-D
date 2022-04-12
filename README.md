@@ -1,5 +1,6 @@
 <h2> Ola,Sou o Daniel Novais :hand: <br>
  Estudante de Desenvolvimento de Software :books: 💻!!!</h2>
+ 
 * sejam vem vindo ao meu *GITHUB* ![003-github](https://user-images.githubusercontent.com/81236390/152077683-9cab8062-f78a-4b0e-ad1f-9b961c46345d.png)
 * Acessem meu Portifolio [Click aqui](https://ledger-d.github.io/Meu-Curriculo/)
  
