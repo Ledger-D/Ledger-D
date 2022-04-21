@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* * */12 * * *"
+  schedule: # execute every 5 hours
+    - cron: "0 */5  * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,17 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+    
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+      
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with: 12px
+
           github_user_name: Ledger-D
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
